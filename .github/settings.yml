@@ -1,0 +1,61 @@
+labels:
+# States
+  - name: ci_verified
+    color: b60205
+  - name: ci_verified
+    color: b60205
+  - name: merge_commit
+    color: d93f0b
+  - name: needs_rebase
+    color: d93f0b
+  - name: needs_revision
+    color: d93f0b
+  - name: needs_template
+    color: d93f0b
+  - name: stale_ci
+    color: d93f0b
+  - name: waiting_on_contributor
+    color: d93f0b    
+  - name: new_contributor
+    color: 8aea94
+  - name: new_inventory
+    color: c2e0c6
+  - name: new_inventory
+    color: c2e0c6
+  - name: new_inventory
+    color: c2e0c6
+  - name: new_module_directory
+    color: c2e0c6
+  - name: new_module
+    color: c2e0c6
+  - name: new_plugin
+    color: c2e0c6
+  - name: bug
+    color: fbca04
+  - name: feature
+    color: 006b75
+  - name: has_issue
+    color: ededed
+  - name: has_pr
+    color: ededed
+  - name: owner_pr
+    color: 0e8a16   
+    
+# components
+  - name: callback
+    color: 71bc1c
+  - name: connection
+    color: 71bc1c
+  - name: integration
+    color: 71bc1c
+  - name: lookup
+    color: 71bc1c
+  - name: plugin
+    color: 71bc1c
+  - name: module
+    color: 71bc1c
+  - name: tests
+    color: 71bc1c
+  - name: units
+    color: 71bc1c
+  
